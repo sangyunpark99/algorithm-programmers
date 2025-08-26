@@ -2,7 +2,8 @@ package org.sangyunpark.Lv2.최댓값최솟값;
 
 import java.util.*;
 
-public class Solution {
+public class Solution_V1 {
+
     public String solution(String s) {
         StringBuilder sb = new StringBuilder();
 
