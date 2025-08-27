@@ -1,4 +1,4 @@
-package org.sangyunpark.Lv3.네트워크.solution_v2;
+package org.sangyunpark.Lv3.네트워크.solution_v2_DFS;
 
 public class Solution_V2 {
     private boolean[] visited;

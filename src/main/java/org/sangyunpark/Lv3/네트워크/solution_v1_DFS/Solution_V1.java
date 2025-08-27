@@ -1,4 +1,4 @@
-package org.sangyunpark.Lv3.네트워크.solution_v1;
+package org.sangyunpark.Lv3.네트워크.solution_v1_DFS;
 
 import java.util.ArrayList;
 import java.util.List;
