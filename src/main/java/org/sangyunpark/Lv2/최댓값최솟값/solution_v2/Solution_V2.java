@@ -1,4 +1,4 @@
-package org.sangyunpark.Lv2.최댓값최솟값;
+package org.sangyunpark.Lv2.최댓값최솟값.solution_v2;
 
 public class Solution_V2 {
 

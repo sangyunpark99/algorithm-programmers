@@ -1,4 +1,4 @@
-package org.sangyunpark.Lv2.올바른괄호;
+package org.sangyunpark.Lv2.올바른괄호.solution_v2;
 
 public class Solution_V2 {
     boolean solution(String s) {

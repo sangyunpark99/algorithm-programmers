@@ -1,4 +1,4 @@
-package org.sangyunpark.Lv2.올바른괄호;
+package org.sangyunpark.Lv2.올바른괄호.solution_v1;
 
 import java.util.*;
 

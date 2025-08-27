@@ -1,4 +1,4 @@
-package org.sangyunpark.Lv3.네트워크;
+package org.sangyunpark.Lv3.네트워크.solution_v1;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,8 +22,6 @@ public class Solution_V1 {
                 }
             }
         }
-
-        System.out.println(graph);
 
         visited = new boolean[n + 1];
 
