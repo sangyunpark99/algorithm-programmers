@@ -1,8 +1,8 @@
-package org.sangyunpark.Lv3.이중우선순위큐;
+package org.sangyunpark.Lv3.이중우선순위큐.solution_v1_pq;
 
 import java.util.*;
 
-public class Solution_V1 {
+public class Solution_V1_PQ {
     public int[] solution(String[] operations) {
         PriorityQueue<Integer> minpq = new PriorityQueue<>();
         PriorityQueue<Integer> maxpq = new PriorityQueue<>(Collections.reverseOrder());
