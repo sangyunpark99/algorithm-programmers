@@ -6,7 +6,7 @@ public class Solution {
     public int solution(int[][] routes) {
         int answer = 1; // 맨 처음 카메라 설치
 
-        // 1. 2차원 배열 정렬(시작점 기준으로)
+        // 1. 2차원 배열 정렬(끝점 기준으로)
         // O(nlogn)
         Arrays.sort(routes, (a,b) -> Integer.compare(a[1], b[1]));
 
