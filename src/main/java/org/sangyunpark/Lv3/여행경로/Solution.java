@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 
 public class Solution {
-  private HashMap<String, Integer> visited = new HashMap<>(); // 중복이 될 수 있으므로, 횟수로
+  private HashMap<String, Integer> visited = new HashMap<>(); // 중복 티켓이 발생할 수 있기 때문에, 횟수로 가져간다.
   private HashMap<String, List<String>> path = new HashMap<>();
   private List<String> paths = new ArrayList<>();
   private int n;
