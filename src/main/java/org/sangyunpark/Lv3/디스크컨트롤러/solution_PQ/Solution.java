@@ -1,4 +1,4 @@
-package org.sangyunpark.Lv3.디스크컨트롤러;
+package org.sangyunpark.Lv3.디스크컨트롤러.solution_PQ;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;
