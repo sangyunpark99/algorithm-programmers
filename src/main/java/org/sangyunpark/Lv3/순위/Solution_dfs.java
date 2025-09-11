@@ -37,11 +37,7 @@ public class Solution_dfs {
   private int cnt(int num, List<List<Integer>> graph , boolean[] visited) {
 
     int total = 0;
-
-    if(graph.get(num).size() == 0) {
-      return 0;
-    }
-
+    
     for(int i = 0; i < graph.get(num).size(); i++) {
       int parent = graph.get(num).get(i);
       if(!visited[parent]) {
