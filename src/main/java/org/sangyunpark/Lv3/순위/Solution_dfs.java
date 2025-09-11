@@ -37,12 +37,12 @@ public class Solution_dfs {
   private int cnt(int num, List<List<Integer>> graph , boolean[] visited) {
 
     int total = 0;
-    
+
     for(int i = 0; i < graph.get(num).size(); i++) {
       int parent = graph.get(num).get(i);
       if(!visited[parent]) {
-        total += cnt(parent, graph, visited) + 1;
         visited[parent] = true;
+        total += cnt(parent, graph, visited) + 1;
       }
     }
 
