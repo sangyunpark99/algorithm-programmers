@@ -1,6 +1,6 @@
 package org.sangyunpark.Lv1.신규아이디추천;
 
-public class Solution {
+public class Solution_v1 {
     public String solution(String new_id) {
         String answer = "";
         char[] values = new_id.toCharArray();
