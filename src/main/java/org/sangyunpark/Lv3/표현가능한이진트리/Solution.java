@@ -1,5 +1,4 @@
 package org.sangyunpark.Lv3.표현가능한이진트리;
-import java.util.*;
 
 class Solution {
 

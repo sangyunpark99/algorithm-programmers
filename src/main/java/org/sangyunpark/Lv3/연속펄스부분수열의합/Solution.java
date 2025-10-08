@@ -1,7 +1,5 @@
 package org.sangyunpark.Lv3.연속펄스부분수열의합;
 
-import java.util.*;
-
 class Solution {
   // 양수, 음수, 양수 -> 부호가 번갈아
 

@@ -1,7 +1,5 @@
 package org.sangyunpark.Lv3.표현가능한이진트리;
 
-import java.util.*;
-
 class Solution_복습01 {
     public int[] solution(long[] numbers) {
         int[] answer = new int[numbers.length];

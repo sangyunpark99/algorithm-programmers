@@ -1,4 +1,4 @@
-package org.sangyunpark.programmers.Lv3.등산코스정하기;
+package org.sangyunpark.Lv3.등산코스정하기;
 
 import java.util.ArrayList;
 import java.util.Arrays;
